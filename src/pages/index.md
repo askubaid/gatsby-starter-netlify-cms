@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great interior designs with a conscience
-image: /img/home-jumbotron.jpg
+image: /img/blog-index.jpg
 heading: Great interior designs with a conscience
 subheading: Minimalist designs and luxurious looks
 mainpitch:
